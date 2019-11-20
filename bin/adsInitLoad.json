@@ -1,0 +1,442 @@
+[
+    {
+        "_id" : "5d3c7ac2b0a3ae04ec55eb47",
+        "tags" : [ 
+            "lifestyle"
+        ],
+        "nombre" : "Bicicleta VOTEC VRC",
+        "venta" : false,
+        "precio" : 2500,
+        "foto" : "VOTEC_VRC.jpg",
+        "__v" : 0
+    },
+    {
+        "_id" : "5d3c7be3b0a3ae04ec55eb48",
+        "tags" : [ 
+            "lifestyle"
+        ],
+        "nombre" : "Bicicleta ORBEA Gain M20i",
+        "venta" : true,
+        "precio" : 4000,
+        "foto" : "ORBEA_GAIN.jpg",
+        "__v" : 0
+    },
+    {
+        "_id" : "5d3c7be4b0a3ae04ec55eb49",
+        "tags" : [ 
+            "lifestyle"
+        ],
+        "nombre" : "Bicicleta CUBE Litening C:68",
+        "venta" : false,
+        "precio" : 3800,
+        "foto" : "CUBE_LITENING_C68.jpg",
+        "__v" : 0
+    },
+    {
+        "_id" : "5d3c7be5b0a3ae04ec55eb4a",
+        "tags" : [ 
+            "lifestyle"
+        ],
+        "nombre" : "Bicicleta CERVELO C3 Disc Ultegra 8020",
+        "venta" : true,
+        "precio" : 2900,
+        "foto" : "CERVELO_C3.jpg",
+        "__v" : 0
+    },
+    {
+        "_id" : "5d3c7be5b0a3ae04ec55eb4b",
+        "tags" : [ 
+            "lifestyle"
+        ],
+        "nombre" : "Bicicleta DARTMOOR Gamer24",
+        "venta" : false,
+        "precio" : 700,
+        "foto" : "DARTMOOR_Gamer24.jpg",
+        "__v" : 0
+    },
+    {
+        "_id" : "5d3c7be6b0a3ae04ec55eb4c",
+        "tags" : [ 
+            "lifestyle"
+        ],
+        "nombre" : "Bicicleta ORBEA MX 50",
+        "venta" : true,
+        "precio" : 450,
+        "foto" : "ORBEA_MX_50.jpg",
+        "__v" : 0
+    },
+    {
+        "_id" : "5d3d67bbb1ff5e5823336102",
+        "tags" : [ 
+            "lifestyle"
+        ],
+        "nombre" : "Bicicleta SERIOUS Eight Ball",
+        "venta" : false,
+        "precio" : 250,
+        "foto" : "SERIOUS_Eight_Ball.jpg",
+        "__v" : 0
+    },
+    {
+        "_id" : "5d3d67feb1ff5e5823336119",
+        "tags" : [ 
+            "lifestyle"
+        ],
+        "nombre" : "Bicicleta CUBE Access Hybrid ONE 400",
+        "venta" : true,
+        "precio" : 1999,
+        "foto" : "Cube_Access_Hybrid.jpg",
+        "__v" : 0
+    },
+    {
+        "_id" : "5d3d6806b1ff5e582333611f",
+        "tags" : [ 
+            "lifestyle"
+        ],
+        "nombre" : "Bicicleta ORBEA Keram Max",
+        "venta" : false,
+        "precio" : 2600,
+        "foto" : "ORBEA_Keram.jpg",
+        "__v" : 0
+    },
+    {
+        "_id" : "5d3d680bb1ff5e5823336124",
+        "tags" : [ 
+            "lifestyle"
+        ],
+        "nombre" : "Bicicleta SERIOUS Bear Rock",
+        "venta" : true,
+        "precio" : 1600,
+        "foto" : "SERIOUS_Bear_Rock.jpg",
+        "__v" : 0
+    },
+    {
+        "_id" : "5d3d6f50b1ff5e5823336330",
+        "tags" : [ 
+            "mobile"
+        ],
+        "nombre" : "XIAOMI Mi9",
+        "venta" : false,
+        "precio" : 349,
+        "foto" : "XiaomiMi9.jpg",
+        "__v" : 0
+    },
+    {
+        "_id" : "5d3d6faab1ff5e582333634c",
+        "tags" : [ 
+            "mobile"
+        ],
+        "nombre" : "XIAOMI Note 7",
+        "venta" : true,
+        "precio" : 149,
+        "foto" : "Xiaominote7.jpg",
+        "__v" : 0
+    },
+    {
+        "_id" : "5d3d6fe5b1ff5e582333635d",
+        "tags" : [ 
+            "mobile"
+        ],
+        "nombre" : "IPHONE XS",
+        "venta" : false,
+        "precio" : 1200,
+        "foto" : "Iphonexs.jpg",
+        "__v" : 0
+    },
+    {
+        "_id" : "5d3d6feeb1ff5e5823336367",
+        "tags" : [ 
+            "mobile"
+        ],
+        "nombre" : "IPHONE X",
+        "venta" : true,
+        "precio" : 799,
+        "foto" : "Iphonex.jpg",
+        "__v" : 0
+    },
+    {
+        "_id" : "5d3d7010b1ff5e5823336374",
+        "tags" : [ 
+            "mobile"
+        ],
+        "nombre" : "Iphone XR",
+        "venta" : true,
+        "precio" : 899,
+        "foto" : "Iphonexr.jpg",
+        "__v" : 0
+    },
+    {
+        "_id" : "5d3d7017b1ff5e582333637a",
+        "tags" : [ 
+            "mobile"
+        ],
+        "nombre" : "IPHONE 8",
+        "venta" : true,
+        "precio" : 659,
+        "foto" : "Iphone8.jpg",
+        "__v" : 0
+    },
+    {
+        "_id" : "5d3d7020b1ff5e582333637f",
+        "tags" : [ 
+            "mobile"
+        ],
+        "nombre" : "Samsung S10",
+        "venta" : true,
+        "precio" : 570,
+        "foto" : "Samsungs10.jpg",
+        "__v" : 0
+    },
+    {
+        "_id" : "5d3d7049b1ff5e582333638f",
+        "tags" : [ 
+            "mobile"
+        ],
+        "nombre" : "SAMSUNG S10E",
+        "venta" : true,
+        "precio" : 499,
+        "foto" : "Samsungs10e.jpg",
+        "__v" : 0
+    },
+    {
+        "_id" : "5d3d7052b1ff5e5823336395",
+        "tags" : [ 
+            "mobile"
+        ],
+        "nombre" : "ONEPLUS 7",
+        "venta" : true,
+        "precio" : 539,
+        "foto" : "Oneplus7.jpg",
+        "__v" : 0
+    },
+    {
+        "_id" : "5d3d7059b1ff5e582333639b",
+        "tags" : [ 
+            "mobile"
+        ],
+        "nombre" : "ONEPLUS 7 PRO",
+        "venta" : false,
+        "precio" : 849,
+        "foto" : "oneplus7pro.jpg",
+        "__v" : 0
+    },
+    {
+        "_id" : "5d3d7061b1ff5e58233363a2",
+        "tags" : [ 
+            "motor"
+        ],
+        "nombre" : "KYMCO Grand Dink",
+        "venta" : true,
+        "precio" : 3999,
+        "foto" : "kymco_gd.jpg",
+        "__v" : 0
+    },
+    {
+        "_id" : "5d3d7097b1ff5e58233363b3",
+        "tags" : [ 
+            "motor"
+        ],
+        "nombre" : "BMW C650",
+        "venta" : false,
+        "precio" : 6899,
+        "foto" : "bmw650.jpg",
+        "__v" : 0
+    },
+    {
+        "_id" : "5d3d70d8b1ff5e58233363ca",
+        "tags" : [ 
+            "motor"
+        ],
+        "nombre" : "BMW C Evolution",
+        "venta" : true,
+        "precio" : 11600,
+        "foto" : "bmw_c.jpg",
+        "__v" : 0
+    },
+    {
+        "_id" : "5d3d70e4b1ff5e58233363d2",
+        "tags" : [ 
+            "motor"
+        ],
+        "nombre" : "BMW GS 1200",
+        "venta" : true,
+        "precio" : 9900,
+        "foto" : "Bmw_gs.jpg",
+        "__v" : 0
+    },
+    {
+        "_id" : "5d3d70f0b1ff5e58233363d9",
+        "tags" : [ 
+            "motor"
+        ],
+        "nombre" : "YAMAHA Tmax",
+        "venta" : false,
+        "precio" : 10300,
+        "foto" : "Yamaha_tmax.jpg",
+        "__v" : 0
+    },
+    {
+        "_id" : "5d3d70f9b1ff5e58233363df",
+        "tags" : [ 
+            "motor"
+        ],
+        "nombre" : "YAMAHA R1",
+        "venta" : true,
+        "precio" : 5200,
+        "foto" : "Yamaha_r1.jpg",
+        "__v" : 0
+    },
+    {
+        "_id" : "5d3d7108b1ff5e58233363e6",
+        "tags" : [ 
+            "motor"
+        ],
+        "nombre" : "HONDA Scoopy",
+        "venta" : true,
+        "precio" : 4200,
+        "foto" : "Honda_Scoopy.jpg",
+        "__v" : 0
+    },
+    {
+        "_id" : "5d3d7116b1ff5e58233363ee",
+        "tags" : [ 
+            "motor"
+        ],
+        "nombre" : "HONDA CB 650",
+        "venta" : false,
+        "precio" : 7800,
+        "foto" : "Honda_cb.jpg",
+        "__v" : 0
+    },
+    {
+        "_id" : "5d3d7122b1ff5e58233363f7",
+        "tags" : [ 
+            "motor"
+        ],
+        "nombre" : "DUCATI Monster",
+        "venta" : false,
+        "precio" : 11900,
+        "foto" : "Ducati_Monster.jpg",
+        "__v" : 0
+    },
+    {
+        "_id" : "5d3d712cb1ff5e58233363fd",
+        "tags" : [ 
+            "motor"
+        ],
+        "nombre" : "VESPA",
+        "venta" : true,
+        "precio" : 4200,
+        "foto" : "Vespa.jpg",
+        "__v" : 0
+    },
+    {
+        "_id" : "5d3d713bb1ff5e5823336406",
+        "tags" : [ 
+            "work"
+        ],
+        "nombre" : "ZAPATO mujer",
+        "venta" : false,
+        "precio" : 49,
+        "foto" : "Zapato1.jpg",
+        "__v" : 0
+    },
+    {
+        "_id" : "5d3d7145b1ff5e582333640c",
+        "tags" : [ 
+            "work"
+        ],
+        "nombre" : "Zapato Hombre",
+        "venta" : false,
+        "precio" : 42,
+        "foto" : "Zapato2.jpg",
+        "__v" : 0
+    },
+    {
+        "_id" : "5d3d7150b1ff5e5823336414",
+        "tags" : [ 
+            "work"
+        ],
+        "nombre" : "CORBATA",
+        "venta" : true,
+        "precio" : 12,
+        "foto" : "corbata.jpg",
+        "__v" : 0
+    },
+    {
+        "_id" : "5d3d715cb1ff5e582333641c",
+        "tags" : [ 
+            "work"
+        ],
+        "nombre" : "I-MAC",
+        "venta" : true,
+        "precio" : 1699,
+        "foto" : "imac.jpg",
+        "__v" : 0
+    },
+    {
+        "_id" : "5d3d7166b1ff5e5823336422",
+        "tags" : [ 
+            "work"
+        ],
+        "nombre" : "MACBOOK Pro",
+        "venta" : true,
+        "precio" : 1299,
+        "foto" : "mac.jpg",
+        "__v" : 0
+    },
+    {
+        "_id" : "5d3d7173b1ff5e5823336429",
+        "tags" : [ 
+            "work"
+        ],
+        "nombre" : "HP Pavilion 15",
+        "venta" : true,
+        "precio" : 599,
+        "foto" : "hp.jpg",
+        "__v" : 0
+    },
+    {
+        "_id" : "5d3d717db1ff5e582333642f",
+        "tags" : [ 
+            "work"
+        ],
+        "nombre" : "ASUS Vivobook",
+        "venta" : false,
+        "precio" : 549,
+        "foto" : "asus.jpg",
+        "__v" : 0
+    },
+    {
+        "_id" : "5d3d7187b1ff5e5823336435",
+        "tags" : [ 
+            "work"
+        ],
+        "nombre" : "taper",
+        "venta" : true,
+        "precio" : 7,
+        "foto" : "taper.jpg",
+        "__v" : 0
+    },
+    {
+        "_id" : "5d3d7192b1ff5e582333643f",
+        "tags" : [ 
+            "work"
+        ],
+        "nombre" : "Bolsa de tapers",
+        "venta" : true,
+        "precio" : 25,
+        "foto" : "tapers.jpg",
+        "__v" : 0
+    },
+    {
+        "_id" : "5d3d719fb1ff5e5823336446",
+        "tags" : [ 
+            "work"
+        ],
+        "nombre" : "Posits",
+        "venta" : false,
+        "precio" : 4,
+        "foto" : "posits.jpg",
+        "__v" : 0
+    }
+]

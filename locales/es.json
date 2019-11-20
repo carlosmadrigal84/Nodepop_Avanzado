@@ -1,0 +1,15 @@
+{
+    "EXAMPLE": "EJEMPLO",
+    "Welcome to": "Bienvenido a ",
+    "Escapar valores": "Escapar valores",
+    "Condicionales": "Condicionales",
+    "es par": "es par",
+    "Pruebas de i18n": "Pruebas de i18n",
+    "Hola, mi nombre es {{name}} y mi edad es {{age}}": "Hola, mi nombre es {{name}} y mi edad es {{age}}",
+    "Mouse": {
+        "one": "%s ratón",
+        "other": "%s ratones"
+    },
+    "inyección de código": "inyección de código"
+  
+}

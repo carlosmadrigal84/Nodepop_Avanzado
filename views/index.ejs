@@ -1,0 +1,28 @@
+<% include header.html %>
+  <header class="masthead">
+    <div class="container h-100">
+      <div class="row h-100">
+        <div class="col-lg-7 my-auto">
+          <div class="header-content mx-auto">
+            <h1><%= title %></h1>
+            <p><%=__('Welcome to') %> <%= title %></p>
+            <h2><%=__('Advertisements') %></h2>
+            <% anuncios.forEach(anuncio => { %>
+            <div class="box">
+            <img src="/images/<%= anuncio.foto %>" alt="<%= anuncio.nombre %>" height="200" width="200">
+            <% if(anuncio.venta){ %>
+            <h4><%=__('Sell!') %></h4>
+            <% } else{ %>  
+            <h4><%=__('Buy!') %></h4>
+            <% } %>
+            <p><%= anuncio.nombre %> vale <%= anuncio.precio %> Euros</p>
+            <p><%=__('Categories:') %> <%= anuncio.tags %></p>
+            </div>
+            <% }) %>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+    
+<% include footer.html %>
