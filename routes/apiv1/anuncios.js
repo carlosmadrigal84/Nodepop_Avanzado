@@ -91,7 +91,7 @@ router.post('/', upload.single('images'), jsonParser, async (req, res, next) => 
 
          requester.send({
         type: 'crear thumbnail',
-        path: '',
+        path: path.join(__dirname, '../../public/images'),
         });
     }
     catch (err) {
